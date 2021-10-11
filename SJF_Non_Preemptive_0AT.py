@@ -1,5 +1,4 @@
 #sjf non preemptive 0 arrival time
-# for second approach sea in yellow copy
 def turnaround_time(p,n):
    ct=0
    tat=[0]
