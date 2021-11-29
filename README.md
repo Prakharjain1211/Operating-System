@@ -1,7 +1,7 @@
 
 # Operating-System
 
-This reposiory contains all my Operating System Lab assignments that i have compleated during my 5th semester of Btech.
+This repository contains all my Operating System Lab assignments that i have compleated during my 5th semester of Btech.
 
 
 
